@@ -68,7 +68,16 @@ int GraphM::consIndex(int marc)
 				count++;
 			}
 		}
-		
 	}
+}
+
+bool GraphM::verifyPath(int start, int end)
+{
+	std::stack<int> noemvedegust;
+	std::set<int> salmoperasopar;
+
+
+
+
 
 }

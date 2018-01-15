@@ -1,5 +1,7 @@
 #pragma once
 #include <vector>
+#include <stack>
+#include <set>
 class GraphM
 {
 
