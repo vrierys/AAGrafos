@@ -7,12 +7,6 @@
 #include <stack>
 #include <set>
 
-struct node {
-	int info;
-	node* next;
-};
-
-
 class GraphD
 {
 public:
